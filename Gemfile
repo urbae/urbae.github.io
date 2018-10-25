@@ -4,6 +4,7 @@ group :jekyll_plugins do
     gem "jekyll-sitemap"
     gem "jekyll-minifier"
     gem 'jekyll-seo-tag'
+    gem 'jekyll-toc'
 end
 gem 'html-proofer'
 gem 'tzinfo'

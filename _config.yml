@@ -19,5 +19,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-minifier
   - jekyll-seo-tag
+  - jekyll-toc
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
