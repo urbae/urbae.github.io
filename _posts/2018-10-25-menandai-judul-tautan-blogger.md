@@ -1,9 +1,9 @@
 ---
 title: Menandai Judul Tautan blogger
 layout: post
-toc: true
 tags: [Blogger]
 comment: true
+toc: true
 ---
 
 ## Penjelasan
