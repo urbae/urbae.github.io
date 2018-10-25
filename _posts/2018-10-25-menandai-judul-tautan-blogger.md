@@ -11,10 +11,7 @@ Saya menggunakan cara ini untuk menandai post atau judul post yang bersifat taut
 Semoga mengerti apa yang saya maksud hahaha.
 
 ### Mengatifkan
-Sebelum kita masuk ke kode <code> HTML </code> dan <code> CSS </code> , kita sebelumnya harus mengatifkan fungsi ini dulu dengan cara
-{% highlight text %}
-Dashboard > Setelan > Lainnya > <ins> Aktifkan Tautan Judul dan Tautan Lampiran </ins> > ganti ke **YA**
-{% endhighlight %}
+Sebelum kita masuk ke kode <code> HTML </code> dan <code> CSS </code> , kita sebelumnya harus mengatifkan fungsi ini dulu dengan cara <code> Dashboard > Setelan > Lainnya >  Aktifkan Tautan Judul dan Tautan Lampiran ganti ke YA </code>
 Untuk mengatur tautan yang kita inginkan dijudul , bisa di atur di <code> Post > Link > Tautan Judul </code> kita tinggal mengisi link yang kita inginkan disitu.
 
 ## Kode
@@ -40,22 +37,22 @@ float: right; /* bisa disesuaikan posisinya , kanan atau kiri */
 Pertama-tama cari kode <code> &lt;b:if cond=&apos;data:post.link&apos;&gt; </code> , Setelah dapat tambahkan code <code> &lt;span class=&apos;tautan&apos;&gt;Tautan&lt;/span&gt; </code> dibawahnya / didalamnya.
 * Contoh , sebelum
 {% highlight html %}
-   &lt;b:if cond=&apos;data:post.link&apos;&gt;
-      &lt;a expr:href=&apos;data:post.link&apos; itemprop=&apos;url&apos;&gt;
-         &lt;data:post.title/&gt;
-      &lt;/a&gt;
-&lt;b:else/&gt;
+   <b:if cond='data:post.link'>
+      <a expr:href='data:post.link' itemprop='url'>
+         <data:post.title/>
+      </a>
+<b:else/>
 {% endhighlight %}
 
 * Contoh , sesudah
 
 {% highlight html %}
-&lt;b:if cond=&apos;data:post.link&apos;&gt;
-      &lt;a expr:href=&apos;data:post.link&apos; itemprop=&apos;url&apos;&gt;
-         &lt;data:post.title/&gt;
-      &lt;/a&gt;
-  &lt;span class=&apos;tautan&apos;&gt;Tautan&lt;/span&gt;
-&lt;b:else/&gt;
+  <b:if cond='data:post.link'>
+      <a expr:href='data:post.link' itemprop='url'>
+         <data:post.title/>
+      </a>
+  <span class='tautan'>Tautan</span>
+<b:else/>
 {% endhighlight %}
 Setelah itu **Simpan tema** . 
 
