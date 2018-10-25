@@ -18,5 +18,6 @@ disqus_shortname: urbae
 plugins:
   - jekyll-sitemap
   - jekyll-minifier
+  - jekyll-seo-tag
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
