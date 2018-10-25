@@ -10,3 +10,4 @@ end
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
+gem "neat"
