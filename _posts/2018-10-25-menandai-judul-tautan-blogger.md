@@ -2,6 +2,7 @@
 title: Menandai Judul Tautan blogger
 layout: post
 toc: true
+tags: [Blogger]
 comment: true
 ---
 
@@ -11,7 +12,10 @@ Saya menggunakan cara ini untuk menandai post atau judul post yang bersifat taut
 Semoga mengerti apa yang saya maksud hahaha.
 
 ### Mengatifkan
-Sebelum kita masuk ke kode <code> HTML </code> dan <code> CSS </code> , kita sebelumnya harus mengatifkan fungsi ini dulu dengan cara <code> Dashboard > Setelan > Lainnya >  Aktifkan Tautan Judul dan Tautan Lampiran ganti ke YA </code>
+Sebelum kita masuk ke kode <code> HTML </code> dan <code> CSS </code> , kita sebelumnya harus mengatifkan fungsi ini dulu dengan cara
+{% highlight text %}
+Dashboard > Setelan > Lainnya > <ins> Aktifkan Tautan Judul dan Tautan Lampiran </ins> > ganti ke **YA**
+{% endhighlight %}
 Untuk mengatur tautan yang kita inginkan dijudul , bisa di atur di <code> Post > Link > Tautan Judul </code> kita tinggal mengisi link yang kita inginkan disitu.
 
 ## Kode
@@ -47,7 +51,7 @@ Pertama-tama cari kode <code> &lt;b:if cond=&apos;data:post.link&apos;&gt; </cod
 * Contoh , sesudah
 
 {% highlight html %}
-  <b:if cond='data:post.link'>
+   <b:if cond='data:post.link'>
       <a expr:href='data:post.link' itemprop='url'>
          <data:post.title/>
       </a>
