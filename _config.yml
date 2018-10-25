@@ -20,5 +20,7 @@ plugins:
   - jekyll-minifier
   - jekyll-seo-tag
   - jekyll-toc
+  - jekyll-mentions
+jekyll-mentions: https://twitter.com
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
