@@ -12,10 +12,7 @@ Saya menggunakan cara ini untuk menandai post atau judul post yang bersifat taut
 Semoga mengerti apa yang saya maksud hahaha.
 
 ### Mengatifkan
-Sebelum kita masuk ke kode <code> HTML </code> dan <code> CSS </code> , kita sebelumnya harus mengatifkan fungsi ini dulu dengan cara
-{% highlight text %}
-Dashboard > Setelan > Lainnya > <ins> Aktifkan Tautan Judul dan Tautan Lampiran </ins> > ganti ke **YA**
-{% endhighlight %}
+Sebelum kita masuk ke kode <code> HTML </code> dan <code> CSS </code> , kita sebelumnya harus mengatifkan fungsi ini dulu dengan cara <code>Dashboard > Setelan > Lainnya > <ins> Aktifkan Tautan Judul dan Tautan Lampiran </ins> > ganti ke YA</code>
 Untuk mengatur tautan yang kita inginkan dijudul , bisa di atur di <code> Post > Link > Tautan Judul </code> kita tinggal mengisi link yang kita inginkan disitu.
 
 ## Kode
