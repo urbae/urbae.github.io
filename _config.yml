@@ -31,7 +31,7 @@ compress_html:
   ignore:
     envs: [local]
   blanklines: false
-  profile: true
+  profile: false
   startings: [html, head, body]
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
