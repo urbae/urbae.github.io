@@ -9,6 +9,8 @@ toc: true
 * TOC
 {:toc}
 
+----
+
 ## Penjelasan
 Saya menggunakan cara ini untuk menandai post atau judul post yang bersifat tautan fungsinya , ya untuk menandai aja sih xixixi.Bagi yang belum tau judul post yang bersifat tautan itu seperti apa
 > Judul tautan adalah fungsi dari <em> blogger </em> yang dimana kita dapat membuat judul dengan link . Jadi kalau di post,dan kalau kita klik judul itu akan langsung mengarah ke link yang kita sudah atur
