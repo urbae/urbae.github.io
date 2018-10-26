@@ -21,6 +21,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
   - jekyll-mentions
+
 jekyll-mentions: https://twitter.com
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
