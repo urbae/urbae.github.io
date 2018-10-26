@@ -30,6 +30,8 @@ Caranya seperti ini , kita masukkan di postingan kita kode css yang ingin kita u
 Ohiya, saat ingin menerapkan ini *mode post*-nya harus `HTML` ya.
 
 ## Kesimpulan
+Nah untuk seperti blogaziner[^fn-sample_footnote] , kita tinggal ganti `#yang-ingin-diubah` ke Ukuran blog `#outer-wrapper` sejenis itu biar post-lebih besar dll atau menambah beberapa kode lagi.
+Tapi biasanya mereka udah membuat atau punya tema-tema sendiri yang lebih gambah saat ingin mengeditnya.
 Seperti itu,semoga dimengerti ya soal-nya itu sangat-sangat mudah.Kalau belum mengerti , bisa komen atau hal yang ingin ditanyakan.
 
 -----
