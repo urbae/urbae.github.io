@@ -1,7 +1,7 @@
 ---
 title: Menandai Judul Tautan blogger
 layout: post
-tags: [Blogger],[Kode],[Trik]
+tags: [Blogger,Kode,Trik]
 comment: true
 toc: true
 ---
