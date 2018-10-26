@@ -15,15 +15,16 @@ permalink: pretty
 google_analytics: UA-31452747-2 
 disqus_shortname: urbae
 
+#pluggins
 plugins:
   - jekyll-sitemap
   - jekyll-minifier
   - jekyll-seo-tag
   - jekyll-toc
   - jekyll-mentions
-
+#mention config
 jekyll-mentions: https://twitter.com
-
+#compress config
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -31,11 +32,7 @@ compress_html:
   ignore:
     envs: [local]
   blanklines: false
-  profile: true
+  profile: false
   startings: [html, head, body]
-
-toc:
-  min_level: 1 # default: 1
-  max_level: 6 # default: 6
-
+  
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
