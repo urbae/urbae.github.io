@@ -11,7 +11,7 @@ toc: true
 ----
 
 ## Penjelasan
-Sebenarnya cara ini mirip-mirip dengan konsep *Blogazine* [^fn-sample_footnote] ,yang dimana blog yang menggunakan konsep itu setiap postingannya itu berbeda-beda dan itu menurut saya sangat-sangat keren dan kreatif.
+Sebenarnya cara ini mirip-mirip dengan konsep *Blogazine*[^fn-sample_footnote] ,yang dimana blog yang menggunakan konsep itu setiap postingannya itu berbeda-beda dan itu menurut saya sangat-sangat keren dan kreatif.
 
 ## Cara Menerapkan
 Cara menerapkannya itu sebenarnya sangat,sangat gampang.Kita menggunakan contoh yang simpel saja,seperti yang ada diblog [saya](https://urbaemyb.blogspot.com) . Pada blog tersebut , setiap post memiliki background header yang berbeda ( gambar bagian kiri blog ) .
