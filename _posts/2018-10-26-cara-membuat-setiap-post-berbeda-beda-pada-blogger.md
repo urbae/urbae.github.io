@@ -2,6 +2,7 @@
 title: Cara Membuat Setiap Post Berbeda-Beda Pada Blogger
 layout: post
 Comment: true
+tags: [Blogger] , [Kode] , [Trik]
 toc: true
 ---
 
