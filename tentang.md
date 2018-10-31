@@ -9,4 +9,7 @@ Salam kenal , saya orang baru di <em>dunia</em> ini,disini juga cuma ingin memba
 ### Proyek
 * Tema Blogspot
    - Yourbaemaybe : [Lihat](https://urbaemyb.blogspot.com)
+   - 2ez4me : [Lihat](https://toez4me.blogspot.com/)
    - Minimalist : _Proses_
+* Kode-pen 
+   - Kopizine CO : [Lihat](https://codepen.io/yourbaemyb/full/bmPBxr/)
