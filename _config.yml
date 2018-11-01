@@ -22,6 +22,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
   - jekyll-mentions
+  - jemoji
 #mention config
 jekyll-mentions: https://twitter.com
 #compress config
@@ -34,5 +35,4 @@ compress_html:
   blanklines: false
   profile: false
   startings: [html, head, body]
-  
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]

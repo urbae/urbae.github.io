@@ -6,6 +6,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-toc'
     gem 'jekyll-mentions'
+    gem 'jemoji'
 end
 gem 'html-proofer'
 gem 'tzinfo'
