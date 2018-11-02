@@ -4,7 +4,8 @@ layout: post
 comment: true
 tag: [Blogger, Trik, Kode]
 ---
-![Obeng Blogger](/img/obeng.jpg "Obeng Blogger")
-Mungkin beberapa dari kalian sering melihat icon ini dan merasa terganggu , kalian dapat menghapusnya dengan mudah.Cukup Dengan mencari kode `    &lt;b:include name='quickedit'/&gt; `dan menghapusnya.
+![placeholder](/img/obeng.jpg "Obeng Blogger")
+
+Mungkin beberapa dari kalian sering melihat icon ini dan merasa terganggu , kalian dapat menghapusnya dengan mudah.Cukup Dengan mencari kode ` &lt;b:include name='quickedit'/&gt; `dan menghapusnya.
 
 
