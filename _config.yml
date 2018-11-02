@@ -23,6 +23,9 @@ plugins:
   - jekyll-toc
   - jekyll-mentions
   - jemoji
+gems:
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 #mention config
 jekyll-mentions: https://twitter.com
 #compress config
