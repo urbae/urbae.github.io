@@ -1,6 +1,7 @@
 language: ruby
 rvm:
   - 2.4.1
+install: gem install rails
 
 before_script:
   - chmod +x ./script/cibuild.sh
