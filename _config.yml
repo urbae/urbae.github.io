@@ -5,7 +5,7 @@ description:        "Hanya sebuah journalngaco."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'https://3.bp.blogspot.com/-JMdwvHXZ3zI/W94Oj8igAzI/AAAAAAAAFdg/CcQNfC9QVpYvJTts2wL0N9D-PO_515KpgCLcBGAs/s1600/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             id_ID
 url:                https://urbae.github.io
