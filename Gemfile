@@ -1,14 +1,9 @@
 source "https://rubygems.org"
-gemspec
-group :jekyll_plugins do
-    gem "jekyll-minifier"
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-toc'
-    gem 'jekyll-mentions'
-    gem 'jemoji'
-    gem 'jekyll-tagging-related_posts'
-end
-gem 'html-proofer'
-gem 'tzinfo'
-gem 'tzinfo-data'
 
+gem "jekyll", "~> 3.7.4"
+gem "github-pages", "~> 192"
+gem "rake", "~> 12.3.1"
+
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
