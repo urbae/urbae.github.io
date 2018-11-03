@@ -1,0 +1,19 @@
+---
+layout: page
+title: Tentang
+toc: true
+---
+* TOC
+{:toc}
+
+----
+
+Salam kenal , saya orang baru di <em>dunia</em> ini,disini juga cuma ingin membagikan ilmu-ilmu yang saya dapatkan selagi belajar tentang kode-kode <em>blogger</em>.
+
+### Karya
+* Tema Blogspot
+   - Yourbaemaybe : [Lihat](https://urbaemyb.blogspot.com)
+   - 2ez4me : [Lihat](https://toez4me.blogspot.com/)
+   - Minimalist : _Proses_
+* Kode-pen 
+   - Kopizine CO : [Lihat](https://codepen.io/yourbaemyb/full/bmPBxr/)
