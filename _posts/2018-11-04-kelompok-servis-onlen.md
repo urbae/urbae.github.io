@@ -7,8 +7,9 @@ title: Kelompok Servis Onlen
 date: 2018-10-04 00:22:46
 tags: [bacotan]
 class: post-template
-subclass: 'post bacotan'
+subclass: 'post tag-bacotan'
 author: urbae
+comment: true
 ---
 
 <p>Kebetulan saya pengguna baru dari laptop '<i>SUSA</i>' dan saya ingin mencari kelompok atau kumpulan orang-orang yang menggunakan laptop yang sama.Biar bisa ngumpul-ngumpul bareng atau sejenisnya,dan saya mendapatkan grup tersebut.Jumlah orang di grup itu lumayan banyak,saya sih merasa senang karena ramai jadi kalau ada acara juga ramai atau diskusi-diskusi grup.</p>

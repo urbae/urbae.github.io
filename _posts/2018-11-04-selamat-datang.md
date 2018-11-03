@@ -9,6 +9,7 @@ tags: [bacotan]
 class: post-template
 subclass: 'post tag-bacotan'
 author: yourbae
+comment: true
 ---
 
 ## Hey! 

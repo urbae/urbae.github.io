@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://urbae.github.io/urbae.github.io/
+production_url: https://urbae.github.io/
 source_url: https://github.com/urbae/urbae.github.io/
 CNAME: #add cname for website to be created
 
@@ -27,7 +27,7 @@ twitter: qyazh # replace by your username
 facebook: qyourbae # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: urbae # replace with your disqus username
 
 # Google Analytics
@@ -73,7 +73,7 @@ repo: urbae.github.io
 branch: master
 relative_source: ../urbae.github.io/
 destination: ../urbae.github.io-pages/
-production_url:  https://urbae.github.io/urbae.github.io
+production_url:  https://urbae.github.io/
 source_url:  https://github.com/urbae/urbae.github.io
 
 exclude:
