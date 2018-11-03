@@ -1,38 +1,76 @@
-# Site settings
-title: "urbae"
-description: "tentang kode-kodean , atau tema tema "
-baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: "https://urbae.github.io"
-author: "Uki"
+# Site
+title:              urbae
+bio:                'Orang yang sedang belajar.'
+description:        "Hanya sebuah journalngaco."
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.jpg'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             id_ID
+url:                https://urbae.github.io/
 
-# Build settings
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
 kramdown:
-  input: GFM
-permalink: pretty
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-# Third-party services
-# just leave empty to disable it
-google_analytics: UA-31452747-2 
-disqus_shortname: urbae
+# Comments
+disqus_shortname:   urbae
 
-#pluggins
-plugins:
-  - jekyll-sitemap
-  - jekyll-minifier
-  - jekyll-seo-tag
-  - jekyll-toc
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+twitter:            qyazh
+facebook:           qyourbae
+github-url:         urbae
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+instagram:          kwonderkid
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+steam:              qyourbae
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
+gems:
   - jekyll-mentions
-  - jemoji
-#mention config
-jekyll-mentions: https://twitter.com
-#compress config
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: [html, head, body]
-exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

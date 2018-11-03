@@ -1,14 +1,7 @@
 source "https://rubygems.org"
-gemspec
-group :jekyll_plugins do
-    gem "jekyll-minifier"
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-toc'
-    gem 'jekyll-mentions'
-    gem 'jemoji'
-    gem 'jekyll-tagging-related_posts'
-end
-gem 'html-proofer'
-gem 'tzinfo'
-gem 'tzinfo-data'
 
+gem "jekyll", "~> 3.2.1"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem 'jekyll-mentions'
+gem 'jekyll-feed'
