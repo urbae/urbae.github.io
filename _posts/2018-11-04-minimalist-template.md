@@ -5,11 +5,12 @@ project: true
 date: 2018-11-04
 comment: true
 feature: https://3.bp.blogspot.com/-Zo1vkR0dh1s/W95KrstimqI/AAAAAAAAFd0/QFuUV-kNMbsBSJ4OgXKfQAItQGB6cqRjgCLcBGAs/s1600/homepage.png
+excerpt: "Minimalist Template 2 kolom dan minimalis."
 ---
 
 <figure>
     <a href="https://3.bp.blogspot.com/-Zo1vkR0dh1s/W95KrstimqI/AAAAAAAAFd0/QFuUV-kNMbsBSJ4OgXKfQAItQGB6cqRjgCLcBGAs/s1600/homepage.png"><img src="https://3.bp.blogspot.com/-Zo1vkR0dh1s/W95KrstimqI/AAAAAAAAFd0/QFuUV-kNMbsBSJ4OgXKfQAItQGB6cqRjgCLcBGAs/s1600/homepage.png"></a>
-    <figcaption>**Minimalist** Template 2 kolom dan minimalis</figcaption>
+    <figcaption>Minimalist Template 2 kolom dan minimalis</figcaption>
 </figure>
 
 ## Tentang Template
