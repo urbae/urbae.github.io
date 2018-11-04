@@ -42,4 +42,4 @@ Template ini saya buat untuk sekalian belajar tentang kode-kode.Saya juga bukan 
 <a href="https://template-p1.blogspot.com/p/tentang.html" class="btn"><i class="fas fa-cog"></i> Pengaturan</a>
 
 ## Unduh
-<a href="#" class="btn"><i class="fas fa-file-download"></i> Unduh</a>
+<a href="https://mega.nz/#!LrpzESKB" class="btn"><i class="fas fa-file-download"></i> Unduh</a>
