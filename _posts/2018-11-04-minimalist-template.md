@@ -3,9 +3,9 @@ title: "Minimalist Template"
 layout: post
 project: true
 date: 2018-11-04
-comment: true
 feature: https://3.bp.blogspot.com/-Zo1vkR0dh1s/W95KrstimqI/AAAAAAAAFd0/QFuUV-kNMbsBSJ4OgXKfQAItQGB6cqRjgCLcBGAs/s1600/homepage.png
 excerpt: "Minimalist Template 2 kolom dan minimalis."
+comment: true
 ---
 
 <figure>
