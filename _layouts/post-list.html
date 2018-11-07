@@ -23,8 +23,7 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.project == null %}
-                        {% if post.kodeku == null %}
+                        {% if post.project == null or post.kodeku == null %}
                     <ul>
                         <li class="wow zoomIn" data-wow-duration="2.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
