@@ -1,6 +1,6 @@
 ---
 title: "Minimalist Template"
-layout: post
+layout: post-proyek
 project: true
 date: 2018-11-04
 feature: https://3.bp.blogspot.com/-Zo1vkR0dh1s/W95KrstimqI/AAAAAAAAFd0/QFuUV-kNMbsBSJ4OgXKfQAItQGB6cqRjgCLcBGAs/s1600/homepage.png

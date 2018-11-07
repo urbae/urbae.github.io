@@ -1,6 +1,6 @@
 ---
 title: "YOURBAE Maybe Template"
-layout: post
+layout: post-proyek
 project: true
 date: 2018-11-04
 comment: true
