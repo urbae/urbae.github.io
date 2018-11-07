@@ -262,7 +262,8 @@ textarea {
 }
 
 .content > p:first-of-type {
-  font-size: 1.5rem;
+  
+
 }
 .content > p:first-of-type::first-letter {
   font-size: 5rem;
@@ -274,4 +275,8 @@ textarea {
   display: inline-block;
   vertical-align: text-top;
   color: red;
+}
+
+.content > p + * {
+  clear: left; /* clear ::first-letter float style */
 }
