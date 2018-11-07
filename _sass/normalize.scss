@@ -261,11 +261,11 @@ textarea {
   -webkit-appearance: none;
 }
 
-.content > p:first-of-type {
+.content-sp > p:first-of-type {
   
 
 }
-.content > p:first-of-type::first-letter {
+.content-sp > p:first-of-type::first-letter {
   font-size: 5rem;
   font-weight: normal;
   padding: 0;
@@ -276,6 +276,6 @@ textarea {
   color: #333;
 }
 
-.content > p + * {
+.content-sp > p + * {
   clear: left; /* clear ::first-letter float style */
 }
