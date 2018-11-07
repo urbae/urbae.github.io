@@ -14,8 +14,7 @@ comments: true
 
 **CSS** 
 
-{% highlight css %} 
-p::first-letter {
+{% highlight css %} p::first-letter {
   font-size: 5rem;
   font-weight: normal;
   padding: 0;
@@ -25,5 +24,4 @@ p::first-letter {
   display: inline-block;
   vertical-align: text-top;
   color: red;
-}
-{% endhighlight %}
+}{% endhighlight %}
