@@ -16,4 +16,9 @@ Saya akan berbagi opini pribadi saya di blog ini, soal apapun itu. Ingat opini p
 
 ## Proyek
 Ya saya juga selain menulis hal-hal yang saya sebut sebelumnya , saya juga membuat sesuatu sekalian belajar tentang hal itu :).
+### Request template blogger ( **Gratis** )
+Kalian bisa me-request template seperti apa yang kalian inginkan , secara gratis. **TAPI** , tidak semua dari yang kalian request akan saya buat,mungkin yang menarik saja.
 
+> Untuk requestnya bisa isi form ini https://goo.gl/forms/0L8Yzc3OtOiVDp0G3
+
+Dan untuk melihat template yang saya buat bisa di menu <mark> Proyek </mark>
