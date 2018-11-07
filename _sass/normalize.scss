@@ -117,7 +117,18 @@ sub {
 sup {
   top: -0.5em;
 }
-
+q {
+color: rgba(0,0,0,.44);
+display: block;
+font-size: 28px;
+font-style: italic;
+font-weight: 400;
+letter-spacing: -.014em;
+line-height: 1.48;
+padding-left: 50px;
+padding-top: 15px;
+text-align: left;
+}
 /* Embedded content
    ========================================================================== */
 
