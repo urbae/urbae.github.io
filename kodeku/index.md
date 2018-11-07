@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: kodeku
 title: Kodeku
 excerpt: "Tutorial atau cuma sekedar kode pribadi"
 comments: false
