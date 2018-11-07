@@ -1,9 +1,9 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu">
-			<li><a href="{{ site.url }}/">Beranda</a></li>
+			<li><a href="{{ site.url }}/">Beranda <i class="fas fa-home"></i></a></li>
 			<li>
-				<a href="#">Tentang</a>
+				<a href="#">Tentang <i class="fas fa-home"></i> </a>
 				<ul class="dl-submenu">
 					<li>
 						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
@@ -88,8 +88,8 @@
 			<li>
 				<a href="#">Posts</a>
 				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/posts/">Post</a></li>
-					<li><a href="{{ site.url }}/tags/">Label</a></li>
+					<li><a href="{{ site.url }}/posts/">Post <i class="far fa-newspaper"></i> </a></li>
+					<li><a href="{{ site.url }}/tags/">Label <i class="fas fa-tags"></i></a></li>
 				</ul>
 			</li>
 			{% for link in site.data.navigation %}
@@ -98,7 +98,7 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>Proyek <i class="fas fa-code"></i></a></li>
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
