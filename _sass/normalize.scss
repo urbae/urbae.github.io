@@ -262,19 +262,22 @@ textarea {
 }
 
 .content-sp > p:first-of-type {
-  
-
+font-size: 130%;
+letter-spacing: -1px;
+line-height: 1.5;
 }
 .content-sp > p:first-of-type::first-letter {
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: normal;
   padding: 0;
-  margin: 0.80rem 0.50rem 0 0;
+  margin: 0.60rem 0.50rem 0 0;
   float: left;
   display: inline-block;
-  color: #cecece;
+  color: #fff;
   background:#333;
-  border-radius:5px;
+background: #989898;
+border-radius: 5px;
+padding: 0.5%;
 }
 
 .content-sp > p + * {
