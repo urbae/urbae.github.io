@@ -1,7 +1,7 @@
 ---
 title: First letter
 layout: post-kodeku
-date: 2017-11-01
+date: 2018-11-01
 excerpt: "css first-letter"
 tags: [tutorial,css]
 kodeku: true
