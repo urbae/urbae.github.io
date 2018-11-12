@@ -8,6 +8,9 @@ comments: true
 feature:
 ---
 
+<figure>
+	<a href="https://4.bp.blogspot.com/-sqCB2sMzDWU/W-jKuQPlwYI/AAAAAAAAFhw/Lm1U4oYeNs8YCKyEJ9Exf9R0cwNEWkrVwCLcBGAs/s1600/mmldgif.gif"><img src="https://4.bp.blogspot.com/-sqCB2sMzDWU/W-jKuQPlwYI/AAAAAAAAFhw/Lm1U4oYeNs8YCKyEJ9Exf9R0cwNEWkrVwCLcBGAs/s1600/mmldgif.gif"></a>
+</figure>
 **Saya suka heran** sama orang-orang yang suka menghujat orang lain.
 **Saya suka heran** sama orang-orang yang suka buat drama-drama yang **tidak jelas** dan tidak **berfaedah**.
 **Saya suka heran** sama orang-orang yang melarang pasangannya chat dengan lawan jenis padahal dia sendiri sering chat sama lawan jenis.
