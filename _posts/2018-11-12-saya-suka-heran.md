@@ -8,9 +8,6 @@ comments: true
 feature: https://2.bp.blogspot.com/-otJI4TIoNeY/W-kVSRzSjDI/AAAAAAAAFh8/zamPxPnL_Jgo3c4YOpKJ9TjCpgMNRtb8QCLcBGAs/s1600/nncy.gif
 ---
 
-<figure>
-	<a href="https://4.bp.blogspot.com/-sqCB2sMzDWU/W-jKuQPlwYI/AAAAAAAAFhw/Lm1U4oYeNs8YCKyEJ9Exf9R0cwNEWkrVwCLcBGAs/s1600/mmldgif.gif"><img src="https://4.bp.blogspot.com/-sqCB2sMzDWU/W-jKuQPlwYI/AAAAAAAAFhw/Lm1U4oYeNs8YCKyEJ9Exf9R0cwNEWkrVwCLcBGAs/s1600/mmldgif.gif"></a>
-</figure>
 **Saya suka heran** sama orang-orang yang suka menghujat orang lain.
 
 **Saya suka heran** sama orang-orang yang suka buat drama-drama yang **tidak jelas** dan tidak **berfaedah**.
@@ -26,3 +23,6 @@ feature: https://2.bp.blogspot.com/-otJI4TIoNeY/W-kVSRzSjDI/AAAAAAAAFh8/zamPxPnL
 **Saya suka heran** sama orang-orang yang gampang baper-an.
 
 ## Saya suka heran ? suka heran ? heran ?
+<figure>
+	<a href="https://4.bp.blogspot.com/-sqCB2sMzDWU/W-jKuQPlwYI/AAAAAAAAFhw/Lm1U4oYeNs8YCKyEJ9Exf9R0cwNEWkrVwCLcBGAs/s1600/mmldgif.gif"><img src="https://4.bp.blogspot.com/-sqCB2sMzDWU/W-jKuQPlwYI/AAAAAAAAFhw/Lm1U4oYeNs8YCKyEJ9Exf9R0cwNEWkrVwCLcBGAs/s1600/mmldgif.gif"></a>
+</figure>
