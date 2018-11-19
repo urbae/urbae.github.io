@@ -100,13 +100,11 @@ body {
 	}
 }
 .wrapper {
-	width: 75%;
-	max-width: 850px;
-	margin: 4rem auto;
+	width:100%;
+	margin:0 auto 4rem;
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
-	border-radius: 3px;
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -121,7 +119,6 @@ body {
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
-	border-radius: 3px;
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
