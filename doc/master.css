@@ -1,0 +1,76 @@
+/* BASE STRUCTURE */
+
+body {
+	font-family: 'Proxima Nova', 'Helvetica', 'Arial', sans-serif;
+	background-color: #fff;
+	color: #000;
+}
+
+section#card {
+	position: absolute;
+	bottom: 12%;
+	left: 12%;
+	height: auto;
+}
+
+h1,
+h1 a:link {
+	font-size: 40px;
+	font-weight: 400;
+	margin-bottom: 0px;
+}
+
+h1 a:hover {
+	color: #ff0000;
+}
+
+h2 {
+	margin-top: 8px;
+	font-size: 27px;
+	font-weight: 100;
+	line-height: 40px;
+	max-width: 500px;
+  opacity: 0.5;
+}
+
+h2 a:link,
+h2 a:visited,
+h2 a:active,
+h2 a:hover {
+	border-bottom: 2px solid #ccc;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 40px;
+}
+
+ul li {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 3px;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+	color: #000;
+	border: none;
+	text-decoration: none;
+
+	font-weight: 300;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+ul a {
+	font-size: 16px;
+	line-height: 25px;
+
+	-webkit-font-smoothing: antialiased;
+}
