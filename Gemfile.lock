@@ -18,7 +18,7 @@ GEM
       nokogiri (>= 1.4)
     i18n (1.1.1)
       concurrent-ruby (~> 1.0)
-    jekyll (3.2.1)
+    jekyll (3.6.3)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -78,7 +78,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.2.1)
+  jekyll (~> 3.6.3)
   jekyll-feed
   jekyll-gist
   jekyll-mentions
