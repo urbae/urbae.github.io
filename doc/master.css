@@ -1,7 +1,7 @@
 /* BASE STRUCTURE */
-
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil|Open+Sans:400,400i');
 body {
-	font-family: 'Proxima Nova', 'Helvetica', 'Arial', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	background-color: #fff;
 	color: #000;
 }
@@ -18,6 +18,7 @@ h1 a:link {
 	font-size: 40px;
 	font-weight: 400;
 	margin-bottom: 0px;
+	font-family: 'Allerta Stencil', sans-serif;
 }
 
 h1 a:hover {
