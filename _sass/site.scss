@@ -16,7 +16,7 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: $bodycolor;
+	background-color:#fff;
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
@@ -79,7 +79,6 @@ body {
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 100%;
