@@ -18,7 +18,7 @@ title: urbae
 email:
 description: bacotan pribadi
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: -
+url: https://urbae.github.io/
 author: 
   name: uq
   twitter: asetdunia
