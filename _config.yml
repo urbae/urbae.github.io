@@ -53,11 +53,6 @@ paginate_path: /page:num/
 #copyright 
 copyright: "copyright by me fo yo"
 
-#disqus
-  disqus:
-    shortname: yourbae
-
-
 # Exclude from processing.
 exclude:
   - .asset-cache
