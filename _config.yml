@@ -26,14 +26,14 @@ author:
 twitter_username: qyazh
 github_username: urbae
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: false
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
+  powered_by: false
 
 # Build settings
 markdown: kramdown
@@ -50,6 +50,8 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
+#copyright 
+copyright: "copyright by me fo yo"
 # Exclude from processing.
 exclude:
   - .asset-cache
