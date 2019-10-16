@@ -21,7 +21,7 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://urbae.github.io/
 author: 
   name: uq
-  twitter: @qyazh
+  twitter: qyazh
   picture:
 twitter_username: qyazh
 github_username: urbae
