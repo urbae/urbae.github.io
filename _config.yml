@@ -18,12 +18,12 @@ title: urbae
 email:
 description: bacotan pribadi
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://urbae.github.io/
+url: -
 author: 
   name: uq
-  twitter: qyazh
+  twitter: asetdunia
   picture:
-twitter_username: qyazh
+twitter_username: asetdunia
 github_username: urbae
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: false
