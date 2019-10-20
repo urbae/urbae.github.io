@@ -1,5 +1,6 @@
 ---
 title: "I don't fcking know"
+excerpt:I didn't know that snakes come in the form of a best friend
 categories:
   - Bacotan
 tags:
