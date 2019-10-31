@@ -6,7 +6,7 @@ categories:
   - Bacotan
 tags:
   - bacotan
-
+comments: true
 ---
 Selama menjalani kuliah ini , merantau di kota orang mengharuskan saya nge-kos.Tapi banyak yang bilang anak kos akan akrab atau dekat dengan indomie,tapi saya kenapa tidak :( , saya ngekos malah kangen dengan yang namanya Indomie.
 
