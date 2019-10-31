@@ -1,13 +1,10 @@
-title: "hallo"
-
-excerpt: "Hallow semuanya , salam kenal lagi proses pembelajaran nich.Mohon bantuannya yah !
-Mungkin ini juga cuma ber-isi"
+---
+title: "Kos Anti Indomie Indomie Club"
+excerpt: "Selama menjalani kuliah ini , merantau di kota orang mengharuskan saya nge-kos"
 categories:
   - Bacotan pribadi
-
 tags:
   - bacotan
-
-comments: true
-
+comment: true
 ---
+Selama menjalani kuliah ini , merantau di kota orang mengharuskan saya nge-kos.
