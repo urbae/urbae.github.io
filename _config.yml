@@ -27,6 +27,7 @@ twitter_username: asetdunia
 github_username: urbae
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: false
+image: /assets/images/tokyo.jpg
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
