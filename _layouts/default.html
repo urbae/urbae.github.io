@@ -23,10 +23,10 @@
       const theme = document.querySelector("#theme-link");
       btn.addEventListener("click", function() {
         // Swap out the URL for the different stylesheets
-        if (theme.getAttribute("href") == "_default.scss") {
-          theme.href = "_darkmode.scss";
+        if (theme.getAttribute("href") == "main.scss") {
+          theme.href = "darkmode.css";
         } else {
-          theme.href = "_default.scss";
+          theme.href = "main.scss";
         }
       });
     </script>
