@@ -4,7 +4,10 @@ body {
     color: $iron;
     background-color: $dorian;
 }
-
+body.dark-theme {
+  color: #eee;
+  background: #121212;
+}
 
 a {
     color: $cloudy;
@@ -16,11 +19,6 @@ a {
     }
 }
 
-/* Dark Mode styles */
-body.dark-theme {
-  color: #eee;
-  background: #121212;
-}
 body.dark-theme a {
   color: #809fff;
 }
