@@ -11,13 +11,19 @@
     <ul class="social-links">
         {% if site.author.github %}
             <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-github"></i>
+                <i class="fab fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.unsplash %}
+            <a href="https://unsplash.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fab fa-unsplash"></i>
             </a>
         {% endif %}
 
         {% if site.author.twitter %}
             <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-twitter"></i>
+                <i class="fab fa-twitter"></i>
             </a>
         {% endif %}
     </ul>
