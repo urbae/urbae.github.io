@@ -19,16 +19,11 @@
         {% include externals/google_analytics.html %}
 
     <script>
-      const btn = document.querySelector(".btn-toggle");
-      const theme = document.querySelector("#theme-link");
-      btn.addEventListener("click", function() {
-        // Swap out the URL for the different stylesheets
-        if (theme.getAttribute("href") == "/css/main.css") {
-          theme.href = "/css/darkmode.css";
-        } else {
-          theme.href = "/css/main.css";
-        }
-      });
+const btn = document.querySelector(".btn-toggle");
+
+btn.addEventListener("click", function () {
+  document.body.classList.toggle("dark-theme");
+});
     </script>
 
     </body>
