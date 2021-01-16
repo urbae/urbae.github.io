@@ -8,7 +8,7 @@
         {% seo %}
     </head>
 
-    <body>
+    <body class="dark-theme || light-theme">
         <div class="wrapper">
             {% include header.html %}
 
@@ -19,12 +19,14 @@
         {% include externals/google_analytics.html %}
 
     <script>
-const btn = document.querySelector(".btn-toggle");
+// Select the button
+const btn = document.querySelector('.darkmodes');
 
-btn.addEventListener("click", function () {
-  document.body.classList.toggle("dark-theme");
-});
-    </script>
+// Listen for a click on the button
+btn.addEventListener('click', function() {
+  // Then toggle (add/remove) the .dark-theme class to the body
+  document.body.classList.toggle('dark-theme');  
+})    </script>
 
     </body>
     {% endif %}
