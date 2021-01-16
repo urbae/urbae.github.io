@@ -4,10 +4,7 @@ body {
     color: $iron;
     background-color: $dorian;
 }
-body.dark-theme {
-  color: #eee;
-  background: #121212;
-}
+
 
 a {
     color: $cloudy;
@@ -19,14 +16,6 @@ a {
     }
 }
 
-body.light-theme a {
-    color: $cloudy;
-    font-weight: bold;
-    text-decoration: none;
-}
-body.dark-theme a {
-  color: #809fff;
-}
 
 p {
     font-size: 20px;
