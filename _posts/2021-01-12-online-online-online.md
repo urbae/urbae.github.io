@@ -4,6 +4,7 @@ title:  "Online,Online,ONLINEEE!"
 subtitle: "kuliah online = kuliah membosankan!"
 date:   2021-01-12 11:00:00
 categories: [bacotan, opini]
+comments: true
 ---
 Karena adanya pandemi ini,hampir semua hal dikerjakan dengan online,termasuk sekolah/kuliah.Kuliah online diawal-awal pandemi jujur saja memang sangat menyenangkan,karena bagi saya sendiri itu hal baru.Tapi setelah beberapa bulan,saya mulai merasakan bosan dan malas.
 
