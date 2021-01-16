@@ -17,6 +17,20 @@
 
         {% include externals/scripting.html %}
         {% include externals/google_analytics.html %}
+
+    <script>
+      const btn = document.querySelector(".btn-toggle");
+      const theme = document.querySelector("#theme-link");
+      btn.addEventListener("click", function() {
+        // Swap out the URL for the different stylesheets
+        if (theme.getAttribute("href") == "_default.scss") {
+          theme.href = "_darkmode.scss";
+        } else {
+          theme.href = "_default.scss";
+        }
+      });
+    </script>
+
     </body>
     {% endif %}
 </html>
