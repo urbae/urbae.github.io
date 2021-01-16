@@ -9,4 +9,7 @@ layout: default
 
 {% include post/about.html %}
 
-{% include externals/disqus.html %}
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
+
