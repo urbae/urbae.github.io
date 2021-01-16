@@ -9,9 +9,6 @@ body.dark-theme {
   background: #121212;
 }
 
-body.dark-theme a {
-  color: #809fff;
-}
 a {
     color: $cloudy;
     font-weight: bold;
@@ -20,6 +17,10 @@ a {
     &:hover {
 
     }
+}
+
+body.dark-theme a {
+  color: #809fff;
 }
 
 p {
