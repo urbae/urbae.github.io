@@ -16,6 +16,14 @@ a {
     }
 }
 
+/* Dark Mode styles */
+body.dark-theme {
+  color: #eee;
+  background: #121212;
+}
+body.dark-theme a {
+  color: #809fff;
+}
 
 p {
     font-size: 20px;

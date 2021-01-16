@@ -17,7 +17,13 @@
 
         {% include externals/scripting.html %}
         {% include externals/google_analytics.html %}
+<script>
+  const btn = document.querySelector(".btn-toggle");
 
+btn.addEventListener("click", function () {
+  document.body.classList.toggle("dark-theme");
+});
+</script>
 
     </body>
     {% endif %}
