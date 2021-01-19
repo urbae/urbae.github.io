@@ -25,6 +25,7 @@ google_analytics: 'G-W76EZD3K89'
 plugins:
   - jekyll-seo-tag
   - jekyll-minifier
+  - jekyll-feed
   
 # Syntax highlighting
 highlightstyle: ''
