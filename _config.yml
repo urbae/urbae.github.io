@@ -24,7 +24,6 @@ google_analytics: 'G-W76EZD3K89'
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-minifier
   - jekyll-feed
   
 # Syntax highlighting
@@ -37,3 +36,14 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+# Compress
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
