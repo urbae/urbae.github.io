@@ -1,0 +1,53 @@
+html {
+    font-family: monospace;
+    max-width: 670px;
+  }
+  body {
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 400;
+    color: #333;
+  }
+  h1 {
+    font-size: 3em;
+    font-weight: 700;
+    margin-bottom: 0;
+    padding-bottom: 0.75rem;
+    line-height: 1em;
+}
+@media (min-width: 480px) {
+    h1 {
+        font-size: 4em;
+    }
+}
+h2 {
+    font-size: 1.5em;
+    margin-top: 2em;
+}
+  p {
+    font-size: 16px;
+    line-height: 26px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    
+    @media screen and (min-width: 600px){ 
+      font-size: 18px;
+      line-height: 30px;
+    }
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  @media (min-width: 40em) {
+    /* Probably some parent element that limits the img width */
+    main {
+      width: 80%;
+    }
+  }
+
+.judul {text-transform: lowercase;}
+.tanggal {color:grey}
+.inpo {text-transform: lowercase;color:grey;}

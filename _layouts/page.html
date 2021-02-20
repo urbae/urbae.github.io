@@ -1,9 +1,27 @@
 ---
 layout: default
 ---
-{% include page/title.html %}
+<h1>{{ site.title }}</h1>
+<p>
+    <ul>
+        <li>Tentang :</li>
+        <ul><li>Tentang Blog Ini, Blog ini tercipta karena kegabutan saya selama pandemi ini...</li></ul>
+        <li>Tulisan:</li>
+        {% for post in site.posts %}
+            <ul class='judul'>
+              <li><span class='tanggal'>/_post/{{ post.date | date: "%Y%d%m"}}/</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 
-<article>{{ content }}</article>
+            </ul>
+        {% endfor %}
+        
+            <li>Categories:</li>
+            <ul>  {% for category in site.data.categories %}
+                <li class="categories__item"><a href="{{ '/categories/' | append: category.slug | prepend: site.baseurl }}">{{ category.name }}</a></li>
+            {% endfor %}</ul>
+        
+    </ul>
+
+</p>
 
 
-{% include page/explore.html %}
+
