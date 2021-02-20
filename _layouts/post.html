@@ -1,15 +1,5 @@
 ---
 layout: default
 ---
-{% include post/title.html %}
-
-<article class="content">
-    {{ content }}
-</article>
-
-{% include post/about.html %}
-
-{% if site.disqus.shortname %}
-  {% include externals/disqus.html %}
-{% endif %}
-
+<div class='inpo'><a href='/' class='z'> <..</a>/_post/{{ page.date| date: "%Y%d%m" }}/{{ page.title }}</div>
+{{ content }}
