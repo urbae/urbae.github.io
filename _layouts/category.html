@@ -2,20 +2,23 @@
 layout: default
 ---
 
-<ul class="list-posts">
-    {% assign empty_category = true %}
-    {% for post in site.posts %}
-        {% if post.categories contains page.category %}
-            <li class="post-teaser">
-                <a href="{{ post.url | prepend: site.baseurl }}">
-                    <span class="post-teaser__title">{{ post.title }}</span>
-                    <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-                </a>
-            </li>
-            {% assign empty_category = false %}
-        {% endif %}
-    {% endfor %}
 
+
+
+    {% assign empty_category = true %}
+    <div class='inpo'><a href='/' class='z'> <..</a>/_post/{{ post.categories }}</div>
+    <li>Tulisan:</li>
+    {% for post in site.posts %}
+
+        {% if post.categories contains page.category %}
+    <ul class='judul'>
+        <li><span class='tanggal'>../{{ post.categories }}/{{ post.date | date: "%Y%d%m"}}/</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+      </ul>
+      {% assign empty_category = false %}
+      {% endif %}
+  {% endfor %}
+  
+<ul>
     {% if empty_category %}
         <li class="empty-post-list">
             It seems that there are no articles on that category,
@@ -23,3 +26,4 @@ layout: default
         </li>
     {% endif %}
 </ul>
+{% include external/categories.html %}
