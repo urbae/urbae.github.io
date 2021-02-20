@@ -25,10 +25,7 @@ google_analytics: 'G-W76EZD3K89'
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-  
-url: "https://urbae.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+  - jekyll-sitemap 
 
 # Syntax highlighting
 highlightstyle: ''
