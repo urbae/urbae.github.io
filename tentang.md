@@ -10,7 +10,7 @@ date:   2021-01-12 11:00:00
 Perkenalkan saya **uki**, pemilik dan pengisi dari blog ini.
 <ul>
 <li><a href="https://unsplash.com/{{ site.author.unsplash }}" target="_blank">Unsplash</a></li>
-<li><a href="https://instagram.com/{{ site.author.instagram }}"  target="_blank">Instagram</a></li>
+
 <li><a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">Twitter</a></li>
 </ul>
 **Tentang Blog Ini**,
