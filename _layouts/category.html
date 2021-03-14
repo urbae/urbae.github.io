@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
+<ul>
 
+    <div class='inpo'><a href='/' class='z'> <..</a>/</div>
 
-
-
-    {% assign empty_category = true %}
-    <div class='inpo'><a href='/' class='z'> <..</a>/_post/{{ post.categories }}</div>
     <li>Tulisan:</li>
-    {% for post in site.posts %}
+    {% assign empty_category = true %}
 
+    {% for post in site.posts %}
         {% if post.categories contains page.category %}
     <ul class='judul'>
-        <li><span class='tanggal'>../{{ post.categories }}/{{ post.date | date: "%Y%d%m"}}/</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+        <li><span class='tanggal'>../{{ post.date | date: "%Y%d%m"}}/</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
       </ul>
       {% assign empty_category = false %}
       {% endif %}
@@ -27,3 +26,4 @@ layout: default
     {% endif %}
 </ul>
 {% include external/categories.html %}
+</ul>
