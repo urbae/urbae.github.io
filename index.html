@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<h1>.urbae</h1>
+<ul>
+<header>  <h1>.urbae</h1> </header>
+
 {% include external/htblog.html %}
-<li>Tulisan:</li>
-{% for post in site.posts %}
-<ul class='judul'>
-  <li><span class='tanggal'>/_post/{{ post.date | date: "%Y%d%m"}}/</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-</ul>
-{% endfor %}
+
+{% include external/post-list.html %}
+
 
 {% include external/categories.html %}
 
+<strong>c u ~</strong>
 
-
+</ul>

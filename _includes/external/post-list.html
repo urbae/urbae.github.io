@@ -1,0 +1,7 @@
+<li>📚 Tulisan :</li>
+
+<ul class='judul'>
+  {% for post in site.posts %}
+  <li><span class='tanggal'>/_post/{{ post.date | date: "%Y%d%m"}}/</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
