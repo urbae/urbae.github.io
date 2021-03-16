@@ -3,7 +3,7 @@ layout: post
 title:  "Awal yang Kurang Baik!"
 subtitle: "Dejavu..."
 date:   2021-01-18 09:30:00
-categories: [opini]
+categories: [opini, personal]
 comments: true
 ---
 

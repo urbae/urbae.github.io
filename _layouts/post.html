@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-<div class='inpo'><a href='/' class='z'>  < ..</a>/_post/{{ page.date| date: "%Y%d%m" }}/{{ page.title }}</div>
-<header>
+
+<article class='tulisan2'>
+    <div class='inpo'><a href='/' class='z'>  < ..</a>/_post/{{ page.date| date: "%Y%d%m" }}/{{ page.title }}</div>
+<header class='judultulis'>
     <h1>{{ page.title }}</h1>
 <p class='subz'>{% if page.subtitle %}{{ page.subtitle }}{% endif %}</p>
 </header>
-<article class='tulisan2'>
 {{ content }}
 
 </article>

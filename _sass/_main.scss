@@ -6,6 +6,7 @@ html {
     line-height: 1.5em;
     font-weight: 400;
     color: #333;
+    font-family: 'Georgia Regular';
   }
   main {
     max-width: 50em;
@@ -44,7 +45,12 @@ html {
 @media only screen and (max-width: 600px) {
   main {max-width:90%;}
 }
-.subz {color: #868686;}
+blockquote {font-family: 'Georgia Italic';
+  border-left: solid 5px #7777;
+  padding-left: 2%;
+}
+.judultulis {font-family: 'Georgia Bold';}
+.subz {color: #868686; font-family: 'Georgia Italic';}
 .judul {text-transform: lowercase;}
 .tanggal {color:grey}
 .inpo {text-transform: lowercase;color:grey;}
