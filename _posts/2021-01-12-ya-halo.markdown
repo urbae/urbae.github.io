@@ -2,8 +2,7 @@
 layout: post
 title:  "Ya,Halo ?"
 subtitle: "hum swit hum!"
-date:   2021-01-12 10:00:00
-categories: [opini]
+categories: opini
 ---
 Ya, Halo ? 
 Ada yang bisa saya bantu ?

@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Per Covidan!"
-subtitle: "is this a real life or just fantasy"
-date:   2021-01-18 16:00:00
-categories: [opini, personal]
+categories: opini
 comments: true
 ---
 
